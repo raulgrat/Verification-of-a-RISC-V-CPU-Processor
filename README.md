@@ -26,7 +26,7 @@ Group collaborators:
 
 - [Francisco Soriano](https://github.com/Francisco-Soriano)
 - [Raul Graterol](https://github.com/raulgrat)
-- [Jack Get](https://github.com/jackgetgithub)
+- [Jack Gao](https://github.com/jackgetgithub)
 
 
 **Note**: This existing design was run on EDA Playground.
