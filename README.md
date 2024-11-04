@@ -24,9 +24,10 @@ Credit regarding the design of the RISC-V processor goes to the original designe
 
 Group collaborators:
 
+- [Francisco Soriano](https://github.com/Francisco-Soriano)
 - [Raul Graterol](https://github.com/raulgrat)
 - [Jack Get](https://github.com/jackgetgithub)
-- [Francisco Soriano](https://github.com/Francisco-Soriano)
+
 
 **Note**: This existing design was run on EDA Playground.
 
